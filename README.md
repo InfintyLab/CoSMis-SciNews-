@@ -1,2 +1,2 @@
-# CoSMis-SciNews-
+# CoSMis(SciNews)
 CoSMis Dataset 
